@@ -1,7 +1,1 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="this is fine dog" />
-  <br />
-  My life in GIF form.
-</p>
-
-
+I think about [stuff](https://www.chadly.net) and then I [make videos sometimes](https://www.youtube.com/@mind-llama).
